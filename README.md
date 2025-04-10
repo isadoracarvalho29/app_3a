@@ -1,6 +1,5 @@
 # 🐘 Projeto Laravel Dockerizado
 
-![Laravel + Docker](https://user-images.githubusercontent.com/000000/laravel-docker.png)
 
 ## 🚀 Sobre
 
